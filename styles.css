@@ -1,0 +1,51 @@
+img {
+    width: 200px;
+    height: auto;
+}
+
+div {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    font-size: large;
+}
+
+.menu ul {
+    background-color: lightpink;
+}
+
+.chapter #first {
+    background-color: gold;
+}
+
+.chapter p {
+    background-color: cadetblue;
+}
+
+.chapter.description p {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: beige;
+}
+
+#first, #third {
+    color: darkmagenta;
+}
+
+h2 {
+    color: darkred;
+}
+
+.ingredients h2 {
+    color: forestgreen;
+    text-align: center;
+}
+
+ul {
+    background-color: lavender;
+}
+
+.ingredients {
+    background-color: indianred;
+}
+
+
+
